@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("hello")
         print("hello")
         print("gello")
+        print("ignored")
     }
 
 }
