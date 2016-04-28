@@ -12,11 +12,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("hello")
-        print("hello")
+        print("hello1")
+        print("hello2")
         print("gello")
         print("ignored")
         print("afhgfhgfhf")
+        
+        
+        
+        print("test1 branch added")
     }
 
 }
